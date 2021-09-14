@@ -22,7 +22,7 @@ python train_bert_mutillabel_classification.py
 ```
 
 
-####结果
+#### 结果
 ```
 BCE     train_acc:1.0000 val_acc:0.9720------best_acc:0.9720
 MLCE    train_acc:1.0000 val_acc:0.9790------best_acc:0.9790
