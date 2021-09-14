@@ -1,0 +1,77 @@
+BCE结果
+tokenization: 4000it [00:00, 5730.70it/s]
+tokenization: 1000it [00:00, 5646.53it/s]
+2021-09-13 21:40:02,572 log.py [line:49] INFO ***** Running training *****
+2021-09-13 21:40:02,572 log.py [line:49] INFO   Num examples = 125
+2021-09-13 21:40:02,572 log.py [line:49] INFO   Num Epochs = 20
+[evaldation] 32/32 [==============================] 20.2ms/step2021-09-13 21:40:15,125 log.py [line:49] INFO save model
+2021-09-13 21:40:20,092 log.py [line:49] INFO BCE train_acc:0.4713 val_acc:0.4380------best_acc:0.4380
+[evaldation] 32/32 [==============================] 20.0ms/step2021-09-13 21:40:32,027 log.py [line:49] INFO save model
+2021-09-13 21:40:37,070 log.py [line:49] INFO BCE train_acc:0.8085 val_acc:0.7710------best_acc:0.7710
+[evaldation] 32/32 [==============================] 20.2ms/step2021-09-13 21:40:49,029 log.py [line:49] INFO save model
+2021-09-13 21:40:55,869 log.py [line:49] INFO BCE train_acc:0.9260 val_acc:0.8890------best_acc:0.8890
+[evaldation] 32/32 [==============================] 20.3ms/step2021-09-13 21:41:07,848 log.py [line:49] INFO save model
+2021-09-13 21:41:11,973 log.py [line:49] INFO BCE train_acc:0.9527 val_acc:0.9100------best_acc:0.9100
+[evaldation] 32/32 [==============================] 20.3ms/step2021-09-13 21:41:23,953 log.py [line:49] INFO save model
+2021-09-13 21:41:29,065 log.py [line:49] INFO BCE train_acc:0.9830 val_acc:0.9350------best_acc:0.9350
+[evaldation] 32/32 [==============================] 20.2ms/step2021-09-13 21:41:41,056 log.py [line:49] INFO save model
+2021-09-13 21:41:47,433 log.py [line:49] INFO BCE train_acc:0.9888 val_acc:0.9540------best_acc:0.9540
+[evaldation] 32/32 [==============================] 20.2ms/step2021-09-13 21:41:59,427 log.py [line:49] INFO save model
+2021-09-13 21:42:04,007 log.py [line:49] INFO BCE train_acc:0.9872 val_acc:0.9560------best_acc:0.9560
+[evaldation] 32/32 [==============================] 20.2ms/step2021-09-13 21:42:16,013 log.py [line:49] INFO save model
+2021-09-13 21:42:20,534 log.py [line:49] INFO BCE train_acc:0.9932 val_acc:0.9590------best_acc:0.9590
+[evaldation] 32/32 [==============================] 20.2ms/step2021-09-13 21:42:32,541 log.py [line:49] INFO BCE train_acc:0.9930 val_acc:0.9560------best_acc:0.9590
+[evaldation] 32/32 [==============================] 20.3ms/step2021-09-13 21:42:44,537 log.py [line:49] INFO save model
+2021-09-13 21:42:50,451 log.py [line:49] INFO BCE train_acc:0.9965 val_acc:0.9640------best_acc:0.9640
+[evaldation] 32/32 [==============================] 20.3ms/step2021-09-13 21:43:02,462 log.py [line:49] INFO save model
+2021-09-13 21:43:08,752 log.py [line:49] INFO BCE train_acc:0.9972 val_acc:0.9650------best_acc:0.9650
+[evaldation] 32/32 [==============================] 20.3ms/step2021-09-13 21:43:20,762 log.py [line:49] INFO save model
+2021-09-13 21:43:24,950 log.py [line:49] INFO BCE train_acc:0.9982 val_acc:0.9660------best_acc:0.9660
+[evaldation] 32/32 [==============================] 20.2ms/step2021-09-13 21:43:36,944 log.py [line:49] INFO BCE train_acc:0.9985 val_acc:0.9660------best_acc:0.9660
+[evaldation] 32/32 [==============================] 20.3ms/step2021-09-13 21:43:48,954 log.py [line:49] INFO save model
+2021-09-13 21:43:53,782 log.py [line:49] INFO BCE train_acc:0.9995 val_acc:0.9670------best_acc:0.9670
+[evaldation] 32/32 [==============================] 20.3ms/step2021-09-13 21:44:05,799 log.py [line:49] INFO BCE train_acc:0.9990 val_acc:0.9650------best_acc:0.9670
+[evaldation] 32/32 [==============================] 20.3ms/step2021-09-13 21:44:17,806 log.py [line:49] INFO save model
+2021-09-13 21:44:22,550 log.py [line:49] INFO BCE train_acc:0.9995 val_acc:0.9720------best_acc:0.9720
+[evaldation] 32/32 [==============================] 20.3ms/step2021-09-13 21:44:34,569 log.py [line:49] INFO BCE train_acc:0.9998 val_acc:0.9690------best_acc:0.9720
+[evaldation] 32/32 [==============================] 20.3ms/step2021-09-13 21:44:46,577 log.py [line:49] INFO BCE train_acc:1.0000 val_acc:0.9710------best_acc:0.9720
+[evaldation] 32/32 [==============================] 20.1ms/step2021-09-13 21:44:58,581 log.py [line:49] INFO BCE train_acc:0.9995 val_acc:0.9710------best_acc:0.9720
+[evaldation] 32/32 [==============================] 20.3ms/step2021-09-13 21:45:10,598 log.py [line:49] INFO BCE train_acc:1.0000 val_acc:0.9720------best_acc:0.9720
+
+
+
+
+MLCE(多标签交叉熵)
+tokenization: 4000it [00:00, 5808.90it/s]
+tokenization: 1000it [00:00, 5721.61it/s]
+2021-09-13 21:48:09,971 log.py [line:49] INFO ***** Running training *****
+2021-09-13 21:48:09,972 log.py [line:49] INFO   Num examples = 125
+2021-09-13 21:48:09,972 log.py [line:49] INFO   Num Epochs = 20
+[evaldation] 32/32 [==============================] 20.2ms/step2021-09-13 21:48:22,566 log.py [line:49] INFO save model
+2021-09-13 21:48:26,703 log.py [line:49] INFO MLCE train_acc:0.7645 val_acc:0.7550------best_acc:0.7550
+[evaldation] 32/32 [==============================] 20.2ms/step2021-09-13 21:48:38,664 log.py [line:49] INFO save model
+2021-09-13 21:48:45,229 log.py [line:49] INFO MLCE train_acc:0.9570 val_acc:0.9320------best_acc:0.9320
+[evaldation] 32/32 [==============================] 20.2ms/step2021-09-13 21:48:57,208 log.py [line:49] INFO save model
+2021-09-13 21:49:03,307 log.py [line:49] INFO MLCE train_acc:0.9878 val_acc:0.9600------best_acc:0.9600
+[evaldation] 32/32 [==============================] 20.3ms/step2021-09-13 21:49:15,290 log.py [line:49] INFO save model
+2021-09-13 21:49:24,350 log.py [line:49] INFO MLCE train_acc:0.9958 val_acc:0.9680------best_acc:0.9680
+[evaldation] 32/32 [==============================] 20.2ms/step2021-09-13 21:49:36,328 log.py [line:49] INFO save model
+2021-09-13 21:49:41,456 log.py [line:49] INFO MLCE train_acc:0.9980 val_acc:0.9700------best_acc:0.9700
+[evaldation] 32/32 [==============================] 20.3ms/step2021-09-13 21:49:53,465 log.py [line:49] INFO save model
+2021-09-13 21:50:02,092 log.py [line:49] INFO MLCE train_acc:0.9988 val_acc:0.9740------best_acc:0.9740
+[evaldation] 32/32 [==============================] 20.2ms/step2021-09-13 21:50:14,090 log.py [line:49] INFO save model
+2021-09-13 21:50:20,566 log.py [line:49] INFO MLCE train_acc:0.9998 val_acc:0.9760------best_acc:0.9760
+[evaldation] 32/32 [==============================] 20.3ms/step2021-09-13 21:50:32,564 log.py [line:49] INFO MLCE train_acc:0.9992 val_acc:0.9720------best_acc:0.9760
+[evaldation] 32/32 [==============================] 20.3ms/step2021-09-13 21:50:44,563 log.py [line:49] INFO MLCE train_acc:0.9988 val_acc:0.9720------best_acc:0.9760
+[evaldation] 32/32 [==============================] 20.2ms/step2021-09-13 21:50:56,576 log.py [line:49] INFO MLCE train_acc:0.9988 val_acc:0.9750------best_acc:0.9760
+[evaldation] 32/32 [==============================] 20.4ms/step2021-09-13 21:51:08,585 log.py [line:49] INFO save model
+2021-09-13 21:51:12,692 log.py [line:49] INFO MLCE train_acc:1.0000 val_acc:0.9790------best_acc:0.9790
+[evaldation] 32/32 [==============================] 20.3ms/step2021-09-13 21:51:24,729 log.py [line:49] INFO MLCE train_acc:0.9998 val_acc:0.9780------best_acc:0.9790
+[evaldation] 32/32 [==============================] 20.3ms/step2021-09-13 21:51:36,768 log.py [line:49] INFO MLCE train_acc:1.0000 val_acc:0.9790------best_acc:0.9790
+[evaldation] 32/32 [==============================] 20.3ms/step2021-09-13 21:51:48,789 log.py [line:49] INFO MLCE train_acc:1.0000 val_acc:0.9780------best_acc:0.9790
+[evaldation] 32/32 [==============================] 20.3ms/step2021-09-13 21:52:00,816 log.py [line:49] INFO MLCE train_acc:1.0000 val_acc:0.9770------best_acc:0.9790
+[evaldation] 32/32 [==============================] 20.3ms/step2021-09-13 21:52:12,831 log.py [line:49] INFO MLCE train_acc:1.0000 val_acc:0.9790------best_acc:0.9790
+[evaldation] 32/32 [==============================] 20.3ms/step2021-09-13 21:52:24,863 log.py [line:49] INFO MLCE train_acc:1.0000 val_acc:0.9790------best_acc:0.9790
+[evaldation] 32/32 [==============================] 20.3ms/step2021-09-13 21:52:36,892 log.py [line:49] INFO MLCE train_acc:1.0000 val_acc:0.9790------best_acc:0.9790
+[evaldation] 32/32 [==============================] 20.3ms/step2021-09-13 21:52:48,917 log.py [line:49] INFO MLCE train_acc:1.0000 val_acc:0.9790------best_acc:0.9790
+[evaldation] 32/32 [==============================] 20.3ms/step2021-09-13 21:53:00,951 log.py [line:49] INFO MLCE train_acc:1.0000 val_acc:0.9790------best_acc:0.9790
